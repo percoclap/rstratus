@@ -1,8 +1,8 @@
 
 
 # L'OREAL R&I ARCHITECTURE TEAM
-# CLOUD ARCHITECTURE
-# <a name="azure-technical-documentation-contributor-guide"></a>Guide du contributeur à la documentation technique Azure
+### CLOUD ARCHITECTURE
+### <a name="azure-technical-documentation-contributor-guide"></a>Guide du contributeur à la documentation technique Azure
 
 Ce dépôt contient également des conseils pour vous aider à contribuer à notre documentation technique. Pour obtenir la liste des articles dans le guide du contributeur, consultez l’[index](contributor-guide/contributor-guide-index.md).
 
